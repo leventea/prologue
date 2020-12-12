@@ -13,8 +13,6 @@ requires "regex >= 0.16.2"
 requires "nimcrypto >= 0.5.4"
 requires "cookiejar >= 0.2.0"
 requires "httpx >= 0.2.0"
-requires "logue >= 0.2.0"
-
 
 # tests
 task tests, "Run all tests":
